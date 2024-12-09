@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moja strona o wyjadaczach</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Witaj na stronie o wyjadaczach!</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#temat1">Co to jest wyjadacz?</a></li>
+            <li><a href="#temat2">Jak rozpoznać wyjadacza?</a></li>
+            <li><a href="#temat3">Jak pozbyć się wyjadacza?</a></li>
+            <li><a href="#temat4">Dlaczego nie warto być wyjadaczem?</a></li>
+            <li><a href="#temat5">Poczucie winy u wyjadacza - jak pomóc?</a></li>
+        </ul>
+    </nav>
+
+    <section id="temat1">
+        <h2>Co to jest wyjadacz?</h2>
+        <p>Wyjadacz to osoba, która żyje kosztem innych, nie dając w zamian nic wartościowego. Często można go spotkać w różnych relacjach, takich jak rodzina, przyjaciele czy współpraca zawodowa. Tego typu osoby nie wnoszą nic pozytywnego, a wręcz wyczerpują zasoby emocjonalne i materialne innych.</p>
+        <img src="images/obrazek1.jpg" alt="Obrazek wyjadacza" class="image-style">
+    </section>
+
+    <section id="temat2">
+        <h2>Jak rozpoznać wyjadacza?</h2>
+        <p>Wyjadacz często manipuluje emocjami innych, aby uzyskać korzyści. Wyzyskuje zaufanie, czasem ukrywa swoje prawdziwe intencje, a jego działania mają na celu tylko i wyłącznie jego własny interes. Rozpoznanie takiej osoby nie zawsze jest łatwe, ale zauważalne są pewne charakterystyczne zachowania:</p>
+        <ul>
+            <li>Składa obietnice, których nie dotrzymuje.</li>
+            <li>Prosi o pomoc, ale nie zwraca się o nią w zamian.</li>
+            <li>Zawsze oczekuje wsparcia, ale nigdy nie oferuje nic w zamian.</li>
+        </ul>
+        <img src="images/obrazek2.jpg" alt="Obrazek wyjadacza" class="image-style">
+    </section>
+
+    <section id="temat3">
+        <h2>Jak pozbyć się wyjadacza?</h2>
+        <p>Pozbycie się wyjadacza może być trudne, ale możliwe. Kluczem do sukcesu jest ustawienie granic i dbanie o swoje potrzeby. Wyjadacze nie szanują granic innych ludzi, dlatego musimy nauczyć się stanowczo je stawiać i nie pozwalać na manipulację.</p>
+        <ul>
+            <li>Nie zgadzaj się na prośby, które są nieodpowiednie.</li>
+            <li>Bądź asertywny i wyjaśnij, dlaczego nie możesz pomóc.</li>
+            <li>Ogranicz kontakt z osobami, które wykorzystywały Twoje zasoby emocjonalne i materialne.</li>
+        </ul>
+    </section>
+
+    <section id="temat4">
+        <h2>Dlaczego nie warto być wyjadaczem?</h2>
+        <p>Bycie wyjadaczem nie tylko szkodzi innym, ale także Tobie. Często osoby, które żyją kosztem innych, tracą w ten sposób szacunek, a także czują się puste i nieszczęśliwe. Niezależność i umiejętność dawania są fundamentami prawdziwych i zdrowych relacji.</p>
+        <p>Jeśli chcesz zmienić swoje życie, musisz nauczyć się być samodzielnym i zacząć szanować innych.</p>
+    </section>
+
+    <section id="temat5">
+        <h2>Poczucie winy u wyjadacza - jak pomóc?</h2>
+        <p>Wyjadacze często czują się winni, ale nie wiedzą, jak wyjść z tej sytuacji. Aby pomóc, ważne jest, by wyjawić im prawdę o ich zachowaniu w sposób konstruktywny i wspierający. Należy pokazać im, że mogą wziąć odpowiedzialność za swoje czyny i podjąć kroki w stronę pozytywnej zmiany.</p>
+        <ul>
+            <li>Pomóż wyjadaczowi dostrzec, jakie konsekwencje ma jego zachowanie.</li>
+            <li>Udziel wskazówek, jak poprawić relacje i dawać coś w zamian.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Skontaktuj się ze mną: <a href="mailto:email@example.com">email@example.com</a></p>
+    </footer>
+
+    <script src="scripts/script.js"></script>
+</body>
+</html>
